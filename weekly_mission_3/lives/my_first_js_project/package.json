@@ -1,0 +1,15 @@
+{
+  "name": "my_first_js_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "author": "Yael Villarreal",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
